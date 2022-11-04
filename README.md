@@ -2,10 +2,6 @@
 A GUI based Password Manager.
 
 
-# Password-Manager_GUI
-
-
-
 
 ## Deployment
 
