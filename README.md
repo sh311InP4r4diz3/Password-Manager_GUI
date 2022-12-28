@@ -3,7 +3,8 @@ A GUI based Password Manager.
 
 
 
-## Deployment
+## Deployment![flow1](https://user-images.githubusercontent.com/103438798/209862741-e6943837-385b-4f67-bba3-3c18f5cc5aac.png)
+
 
 Requirements:
 MYSQL-Workbench(Windows), Mariadb-server(Linux), Python
